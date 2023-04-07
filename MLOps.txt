@@ -1,0 +1,11 @@
+https://aws.amazon.com/ko/blogs/machine-learning/managing-your-machine-learning-lifecycle-with-mlflow-and-amazon-sagemaker/
+
+https://aws.plainenglish.io/set-up-mlflow-on-aws-ec2-using-docker-s3-and-rds-90d96798e555
+
+https://aws.amazon.com/ko/docker/
+
+https://learn.microsoft.com/ko-kr/azure/machine-learning/how-to-use-mlflow-cli-runs?tabs=aml%2Ccli%2Cmlflow
+
+https://www.youtube.com/watch?v=osYRsBVId-A
+
+https://www.youtube.com/watch?v=H-4ZIfOJDaw
